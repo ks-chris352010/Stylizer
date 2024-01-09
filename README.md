@@ -1,4 +1,4 @@
-Makes reciepts and shit
+Makes basic reciepts made from text.
 
 Usage:
 
